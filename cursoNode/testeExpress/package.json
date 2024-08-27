@@ -1,0 +1,15 @@
+{
+  "name": "testeexpress",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "author": "Georges do Carmo Pereira",
+  "license": "UNLICENSED",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
